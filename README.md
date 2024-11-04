@@ -36,7 +36,7 @@ pip install pygame
 
 1. Run the program:
 ```bash
-python Network_part5.py
+python Network_Routing_Visualization.py
 ```
 
 2. Follow the interactive steps:
